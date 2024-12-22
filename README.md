@@ -22,8 +22,6 @@ This project predicts customer churn using machine learning techniques. It ident
 
 ![Feature Importance and Churn Rate Distribution](./2.png)
 
-![Churn Rate by Metrics](./3.png)
-
 ## Installation
 1. Clone the repository.
 2. Install the required Python libraries:
@@ -35,6 +33,9 @@ This project predicts customer churn using machine learning techniques. It ident
    ```bash
    streamlit run main.py
    ```
+
+![Churn Rate by Metrics](./3.png)
+
 
 ## Technologies Used
 - **Machine Learning**: Random Forest Model.
@@ -49,6 +50,9 @@ This project predicts customer churn using machine learning techniques. It ident
   - Key factors include Payment Delay, Support Calls, and Tenure.
 - **Churn Rate by Metrics**:
   - Shows churn behavior based on tenure and frequency of support calls.
+ 
+
+  ![Churn Rate by Metrics](./4.png)
 
 ## Team
 - **Ankit Kumar (Team Lead)**
