@@ -1,5 +1,9 @@
 # Customer Churn Prediction
 
+# Streamlit deployment link
+
+https://churn-prediction-drgm8euxspuldhvhk2vgsa.streamlit.app/
+ 
 ## Overview
 This project predicts customer churn using machine learning techniques. It identifies customers likely to leave a business, enabling targeted retention strategies. The interactive dashboard provides key insights, including churn probability, feature importance, and usage patterns.
 
